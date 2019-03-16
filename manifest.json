@@ -1,0 +1,14 @@
+
+{
+  "manifest_version": 2,
+  "name": "Nepali Unicode",
+  "description": "Nepali Romanized to Unicode Converter",
+  "version": "1.0",
+  "author": "Pabin R Luitel",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Type Nepali",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+ }
